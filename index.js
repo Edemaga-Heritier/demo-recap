@@ -1,1 +1,4 @@
-const menu=['mangue']
+const menu=[{
+    name :"oscar",
+    age :14,
+}];
